@@ -9,5 +9,5 @@ git config --global user.email myemail@qq.com
 查看git设置列表信息
 git config --list
 
-查看用户名
+查看 用户名
 git config user.name
